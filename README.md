@@ -84,10 +84,6 @@ https://github.com/user-attachments/assets/f9d3aa6f-f665-413d-9674-91a1f76f1f1d
 
 A short terminal demo showing Toolio scanning scanme.nmap.org, followed by the HTML, JSON, and Markdown reports generated.
 
-## 🧾 License
-
-This project is released under the MIT License — free to use, modify, and share with attribution.
-
 ## 👤 Author
 
 Developed by Jamir Banks
