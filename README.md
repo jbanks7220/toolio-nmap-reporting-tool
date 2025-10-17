@@ -19,10 +19,14 @@ It runs targeted or bulk scans, parses Nmap’s XML output, and generates clean,
 
 ## 📂 Project Structure
 
-toolio/
-├── docs/ # Documentation and architecture overview
-├── requirements.txt # Python version requirements
-├── toolio.py # Main Python script
+toolio/  
+
+├── docs/ # Documentation and architecture overview  
+
+├── requirements.txt # Python version requirements  
+
+├── toolio.py # Main Python script  
+
 └── README.md # This file
 
 
