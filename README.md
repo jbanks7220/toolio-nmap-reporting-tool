@@ -36,7 +36,7 @@ Toolio requires **Python 3.8+** and **Nmap** installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/toolio.git
+git clone https://github.com/jbanks7220/toolio.git
 cd toolio
 
 # Make sure Nmap is installed
